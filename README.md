@@ -7,4 +7,3 @@ Example of using:
 + media queries.
 
 [Watch](https://deborodina.github.io/pool-app-interface/)
-
