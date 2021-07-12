@@ -1,2 +1,2 @@
 # Pool app interface
-[see](https://docs.microsoft.com/en-us/contribute/how-to-write-links)
+[Watch](https://deborodina.github.io/pool-app-interface/)
