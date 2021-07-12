@@ -27,7 +27,7 @@ body {
   position: relative;
 }
 
-.gamburger::before {
+.humburger::before {
   content:'';
   display: inline-block;
   position:absolute;
@@ -37,7 +37,7 @@ body {
   background-color: black;
 }
 
-.gamburger {
+.humburger {
   position:absolute;
   top: 50px;
   right: 50px;
@@ -47,7 +47,7 @@ body {
   background-color: black;
 }
 
-.gamburger::after {
+.humburger::after {
   content: '';
   display: inline-block;
   position: absolute;
@@ -248,7 +248,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  .gamburger{
+  .humburger{
     display: inline-block;
   }
 }
